@@ -259,4 +259,4 @@ This repository serves as the official landing page for ROX Player. The software
 **Get the most recent version of ROX Player today!**
 
 ---
-**Last updated:** 2026-10-05 01:40:09 UTC
+**Last updated:** 2026-10-05 08:29:33 UTC
